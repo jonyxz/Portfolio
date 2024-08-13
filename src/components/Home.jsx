@@ -6,7 +6,7 @@ import { FaInstagram } from "react-icons/fa"
 
 const Home = () => {
     return (
-        <div className="pb-4 lg:mb-35">
+        <div className="pb-4 lg:mb-44">
             <div className="flex flex-wrap">
                 <div className="w-full lg:w-1/2">
                     <div className="flex flex-col items-center lg:items-start">

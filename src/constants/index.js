@@ -4,7 +4,11 @@ import project3 from "../assets/projects/project-3.jpg";
 
 export const HOME_CONTENT = `I am a beginner software developer with a strong desire to learn and grow. With a solid foundation in web development, I am eager to contribute to projects that will help me develop my skills in both front-end and back-end technologies. My goal is to collaborate on meaningful projects and expand my expertise in the tech industry.`;
 
-export const ABOUT_TEXT = `I am a beginner software developer with a passion for learning and exploring the world of programming. Although I am at the early stages of my journey as a developer, I have mastered the basics of several programming languages, including PHP, JavaScript, and HTML/CSS. I am eager to continue growing, learning new technologies, and contributing to open-source projects.`;
+// export const ABOUT_TEXT = `I am a beginner software developer with a passion for learning and exploring the world of programming. Although I am at the early stages of my journey as a developer, I have mastered the basics of several programming languages, including PHP, JavaScript, and HTML/CSS. I am eager to continue growing, learning new technologies, and contributing to open-source projects.`;
+
+export const ABOUT_TEXT_1 = "I am a beginner software developer with a strong passion for learning and exploring the programming world. Although still early in my journey, I have built a solid foundation in languages like PHP, JavaScript, and HTML/CSS. I enjoy both front-end and back-end development, and I'm constantly seeking opportunities to apply and expand my skills.";
+
+export const ABOUT_TEXT_2 = "I am committed to continuous growth and regularly participate in coding challenges and open-source projects. My goal is to contribute to innovative projects, collaborate with other developers, and make a meaningful impact in the tech community. I am excited to keep learning and exploring new technologies as I progress in my career.";
 
 export const EXPERIENCES = [
   {
