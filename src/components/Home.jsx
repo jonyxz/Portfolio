@@ -6,7 +6,7 @@ import { FaInstagram } from "react-icons/fa"
 
 const Home = () => {
     return (
-        <div className="pb-4 lg:mb-44">
+        <div className="pb-6 lg:mb-44">
             <div className="flex flex-wrap">
                 <div className="w-full lg:w-1/2">
                     <div className="flex flex-col items-center lg:items-start">
@@ -19,7 +19,7 @@ const Home = () => {
                         <p className='my-2 max-w-xl py-6 font-light tracking-tighter'>
                             {HOME_CONTENT}
                         </p>
-                        <div className="flex gap-6 text-2xl">
+                        <div className="flex pb-6 gap-6 text-2xl">
                             <FaLinkedin/>
                             <FaGithub/>
                             <FaInstagram/>

@@ -1,6 +1,11 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
+// import project1 from "../assets/projects/project-1.jpg";
+// import project2 from "../assets/projects/project-2.jpg";
+// import project3 from "../assets/projects/project-3.jpg";
+import project1 from "../assets/about.jpg";
+import project2 from "../assets/about.jpg";
+import project3 from "../assets/about.jpg";
+
+
 
 export const HOME_CONTENT = `I am a beginner software developer with a strong desire to learn and grow. With a solid foundation in web development, I am eager to contribute to projects that will help me develop my skills in both front-end and back-end technologies. My goal is to collaborate on meaningful projects and expand my expertise in the tech industry.`;
 

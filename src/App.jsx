@@ -3,6 +3,8 @@ import './index.css'
 import Navbar from './components/Navbar.jsx'
 import Home from './components/Home.jsx'
 import About from './components/About.jsx'
+import Experience from './components/Experience.jsx'
+import Projects from './components/Projects.jsx'
 
 function App() {
 
@@ -16,6 +18,8 @@ function App() {
         <Navbar />
         <Home />
         <About />
+        <Experience/>
+        <Projects/>
       </div>
     </div>
   )
