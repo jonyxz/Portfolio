@@ -26,9 +26,9 @@ const Home = () => {
                         </div>
                     </div>
                 </div>
-                <div className="w-full lg:w-1/2 lg:p-4 ">
-                    <div className="flex justify-center">
-                        <img className=" rounded-full shadow-inner opacity-75" src={profilPic} alt="profile" />
+                <div className="w-full lg:w-1/2 lg:p-4">
+                    <div className="flex justify-center ">
+                        <img className="rounded-full shadow-inner opacity-75 invisible lg:visible" src={profilPic} alt="profile" />
                     </div>
                 </div>
             </div>
