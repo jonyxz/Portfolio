@@ -7,11 +7,11 @@ const Projects = () => {
         <div className="">
             {PROJECTS.map((projects, index) => (
                 <div key={index} className='mb-8 flex flex-wrap lg:justify-center'>
-                    <div className="w-full lg:w-1/4">
+                    <div className="w-full  lg:w-1/4">
                         <img className='mb-6 rounded' src={projects.image} width={180} height={180} alt={projects.title}/>
                     </div>
                     <div className="w-full max-w-xl lg:w-3/4">
-                        <h6 className='mb-2 font-semibold  text-purple-100'>
+                        <h6 className='mb-2 mt-6 font-semibold  text-purple-100'>
                             {projects.title}
                         </h6>
                         <p className='mb-4 text-neutral-400'>

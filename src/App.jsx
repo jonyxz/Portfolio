@@ -5,6 +5,7 @@ import Home from './components/Home.jsx'
 import About from './components/About.jsx'
 import Experience from './components/Experience.jsx'
 import Projects from './components/Projects.jsx'
+import Contact from './components/Contact.jsx'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
         <About />
         <Experience/>
         <Projects/>
+        <Contact/>
       </div>
     </div>
   )
